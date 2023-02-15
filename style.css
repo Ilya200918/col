@@ -1,0 +1,23 @@
+body {
+    background: rebeccapurple;
+    }
+    div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    input {
+    height: 100px;
+    width: 400px;
+    font-size: 40px;
+    margin-right: 50px;
+    }
+    button {
+    height: 100px;
+    width: 600px;
+    font-size: 40px;
+    }
+    p {
+    font-size: 40px;
+    color: white;
+    }
